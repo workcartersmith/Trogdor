@@ -1,7 +1,7 @@
 
 <div align="center">
 <h1>Trogdor</h1>
-<a href="https://www.youtube.com/watch?v=DCkueDzKkoQ">
+<a href="https://www.youtube.com/watch?v=UnO24xmca9Y">
     <img width="50%" height="50%" src="assets/trogdor.png"/>
 </a>
 
